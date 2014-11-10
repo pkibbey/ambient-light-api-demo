@@ -1,0 +1,19 @@
+﻿* {
+  transition: all 0.5s ease-out;
+}
+
+section {
+  margin: 40px 0;
+}
+
+.api-supported, .api-not-supported {
+  display: none;
+}
+
+.secret {
+  opacity: 0;
+}
+
+.visible {
+  display: block;
+}

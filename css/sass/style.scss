@@ -1,0 +1,31 @@
+﻿@import 'partials/base';
+
+body.dark {
+  // use background for specific shorthand reasons only
+  background-color: #222;
+  color: #bbb;
+  a {
+    color: yellow;
+  }
+}
+
+body.mid {
+  background-color: gray;
+  color: black;
+  a {
+    color: blue;
+  }
+}
+
+body.light {
+  background-color: #eee;
+  color: #333;
+  a {
+    color: green;
+  }
+  .secret {
+    opacity: 1;
+  }
+}
+
+

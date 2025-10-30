@@ -1,5 +1,10 @@
 # Ambient Light Api Demo
 
+## Screenshot
+
+![Application Screenshot](./SCREENSHOT.png)
+
+
 HTML5 Ambient Light API demo
 
 
